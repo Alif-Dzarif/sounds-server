@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ESP Snapper CTM",
+    "CompanyId": 1,
+    "type": "Marine Blue",
+    "detail": "The ESP Snapper CTM is a truly outstanding guitar, built one-by-one at the ESP Custom Shop in Japan by our world-renowned master luthiers. It’s the ultimate version of a traditional body shape that’s been modded to perfection using the highest level of build quality along with the finest woods and components. The ESP Snapper CTM offers bolt-on construction at 25.5” scale with a swamp ash body and flamed maple top with masked binding, paired to a thin U-shaped maple neck. Its maple fingerboard has 22 medium jumbo frets along with abalone dot inlays.",
+    "CategoryId": 1
+  },
+  {
+    "name": "ESP Snapper 7",
+    "CompanyId": 1,
+    "type": "Vintage Candy Apple Red",
+    "detail": "Built by hand, one at a time by the master luthiers at the ESP Custom Shop in Japan, the ESP Original Series Snapper-7 takes a traditional guitar shape and supercharges it into a hot-rodded extended range instrument for all high-performance music styles from metal to prog to jazz and beyond. A seven-string guitar at 25.5” scale, the ESP Snapper-7 combines the ultimate level of build quality with the finest woods and components. It offers bolt-on construction with an alder body, a one-piece thin U-shaped maple neck, and a Honduras rosewood fingerboard with 22 medium-jumbo frets and dot inlays.",
+    "CategoryId": 1
+  }
+]
